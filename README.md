@@ -12,7 +12,7 @@
 | 이름   | GitHub                                         |
 | ------ | ---------------------------------------------- |
 | 이상민 | [@SangMin](https://github.com/ehdqn119) |
-| 정의훈 | [@akstlrdlsms](https://github.com/bryan0730)  |
+| 정의훈 | [@akstlrdlsms](https://github.com/bryan0730) |
 | 고승범 | [@namdh9011](https://github.com/namdh9011) |
 
 
