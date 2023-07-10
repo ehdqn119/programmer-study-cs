@@ -13,7 +13,7 @@
 | ------ | ---------------------------------------------- |
 | 이상민 | [@SangMin](https://github.com/ehdqn119) |
 | 정의훈 | [@Uihoon](https://github.com/bryan0730) |
-| 고승범 | [@namdh9011](https://github.com/namdh9011) |
+| 고승범 | [@SeungBeom](https://github.com/ssg4262) |
 
 
 ## 💻 타임 테이블
