@@ -3,7 +3,8 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class DFS {
+//https://www.acmicpc.net/problem/1303
+public class 백준_1303_DFS {
 
     static final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static int N,M;
