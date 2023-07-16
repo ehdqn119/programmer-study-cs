@@ -5,7 +5,8 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class BFS {
+//https://www.acmicpc.net/problem/2178
+public class 백준_2178_BFS {
 
     static final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static int n,m;
